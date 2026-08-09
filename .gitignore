@@ -188,6 +188,7 @@ docs/superpowers/*
 
 # Internal Settings
 **/*.local.*
+**/.local/
 
 # Git Worktrees
 .worktrees/
